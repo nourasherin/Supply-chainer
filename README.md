@@ -4,6 +4,8 @@
 
 Supplychainer is an intelligent supply-chain decision platform designed to help logistics teams make disruption-aware routing decisions using global disruption intelligence, threat analysis, machine-learning-based delay risk, and multimodal route optimization.
 
+This project extends the organizer-provided Supplychainer starter repository for TatHack'26, with modifications and enhancements to its routing, disruption handling, risk analysis, and decision audit capabilities.
+
 ## Problem
 
 Global supply chains are vulnerable to disruptions such as canal blockages, port closures, geopolitical events, extreme weather, and transportation delays. Traditional routing systems may identify disruptions without fully incorporating their impact into route selection.
