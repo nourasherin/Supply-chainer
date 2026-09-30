@@ -97,7 +97,7 @@ Supply-chainer/
 Create and activate a Python virtual environment, install the dependencies, and start the FastAPI server:
 
 ```bash
-pip install -r requirements.txt
+pip install -r backend/requirements.txt
 uvicorn backend.main:app --host 127.0.0.1 --port 8000
 ```
 
